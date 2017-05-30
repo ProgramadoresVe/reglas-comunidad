@@ -20,7 +20,7 @@ Con el fin de organizar mejor el contenido de las publicaciones y facilitar la b
 
 * #Aporte -> Videos, Noticias, Cursos.
 * #Empleo-> Si es una propuesta o busqueda de empleo.
-* #OffTipic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
+* #OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
 * #Pregunta #(Tecnologia) por ejemplo:
 * #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
 
