@@ -2,7 +2,7 @@
 Reglas de la Comunidad de Programadores de Venezuela.
 
 ## Normas de Convivencia
-* Queda prohibido los adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
+* Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
 
 ### Procedimiento
 * Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
@@ -16,13 +16,12 @@ Reglas de la Comunidad de Programadores de Venezuela.
 * Queda prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acortadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube. 
 
 ### Organización
-Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de informacion, agradecemos a los miembros de la comunidad utilizar un hashtag (#) con el tema que van a publicar:
+Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la comunidad utilizar un hashtag (#) con el tema que van a publicar:
 
-* #Aporte -> Videos, Noticias, Cursos.
-* #Empleo-> Si es una propuesta o busqueda de empleo.
+* #Aporte-> Vídeos, Noticias, Cursos.
+* #Empleo-> Si es una propuesta o búsqueda de empleo.
 * #OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
-* #Pregunta #(Tecnologia) por ejemplo:
-* #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
+* #Pregunta #(Tecnología) por ejemplo: #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
 
 ### Procedimiento
 Se procederá a eliminar dicha publicación. De continuar con la actitud, se procederá directamente a bloquear de la comunidad. 
@@ -55,5 +54,5 @@ Se eliminarán las ofertas laborales que no sigan las pautas de la comunidad:
 
 ## Otras consideraciones
 * Los administradores de este grupo no nos hacemos responsables por los acuerdos de negocios que los miembros de este grupo hagan con terceros.
-* Si alguna publicación te parece sospechosa o crees que incumple con las normas reportala, recuerda que esta comunidad es tuya.
+* Si alguna publicación te parece sospechosa o crees que incumple con las normas repórtala, recuerda que esta comunidad es tuya.
 * Si deseas publicar algo pero crees que incumple con las normas contacta con alguno de los Administradores o Moderadores para discutirlo y evitar la expulsión.
