@@ -18,11 +18,10 @@ Reglas de la Comunidad de Programadores de Venezuela.
 ### Organización
 Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la comunidad utilizar un hashtag (#) con el tema que van a publicar:
 
-* #Aporte -> Vídeos, Noticias, Cursos.
+* #Aporte-> Vídeos, Noticias, Cursos.
 * #Empleo-> Si es una propuesta o búsqueda de empleo.
 * #OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
-* #Pregunta #(Tecnología) por ejemplo:
-* #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
+* #Pregunta #(Tecnología) por ejemplo: #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
 
 ### Procedimiento
 Se procederá a eliminar dicha publicación. De continuar con la actitud, se procederá directamente a bloquear de la comunidad. 
