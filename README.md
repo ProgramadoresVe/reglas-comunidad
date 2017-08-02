@@ -44,13 +44,19 @@ Nota: Si no estás seguro contacta con alguno de los administradores o moderador
 
 ## Pautas para publicar ofertas laborales
 Se eliminarán las ofertas laborales que no sigan las pautas de la comunidad:
-* Nombre de la Empresa:
+* Nombre de la Empresa: (Si es personal indica tu nombre)
 * Perfil Requerido:
 * Ubicación:
 * Horarios:
-* Beneficios:
+* Moneda: (USD o BsF)
+* Remuneración Aproximada: ( Min - Max - Aproximado )
 * Tipo de Contrato: (Fulltime - Partime - Freelance)
 * Correo Electrónico: (Para Adjuntar CV)
+
+### Observaciones
+* Si la remuneración aproximada es acorde a la experiencia, especificar un monto por cada rango de experiencia.
+* Si la remuneración es en base a objetivos alcanzados. Colocar "Saldo variable según objetivo alcanzado" y hacer referencia con un ejemplo, del tipo de remuneración que se obtendría al alcanzar un objetivo.
+* Si las postulaciones se deben hacer por una plataforma web, se puede omitir el campo de Correo Electrónico, especificando en su lugar una url con la oferta laboral.
 
 ## Otras consideraciones
 * Los administradores de este grupo no nos hacemos responsables por los acuerdos de negocios que los miembros de este grupo hagan con terceros.
