@@ -3,6 +3,7 @@ Reglas de la Comunidad de Programadores de Venezuela.
 
 ## Normas de Convivencia
 * Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
+* Antes de publicar busca tus dudas en google o en las FAQ (https://github.com/ProgramadoresVe/FAQ), para evitar posts duplicados
 
 ### Procedimiento
 * Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
