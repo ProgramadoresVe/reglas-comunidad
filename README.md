@@ -1,7 +1,7 @@
 # Reglas de la Comunidad
 Reglas de la Comunidad de Programadores de Venezuela.
 
-## Normas de Convivencia
+## Normas de convivencia
 * Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
 * Antes de publicar busca tus dudas en google o en las FAQ (https://github.com/ProgramadoresVe/FAQ), para evitar posts duplicados
 
@@ -19,16 +19,17 @@ Reglas de la Comunidad de Programadores de Venezuela.
 ### Organización
 Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la comunidad utilizar un hashtag (#) con el tema que van a publicar:
 
-* #Aporte-> Vídeos, Noticias, Cursos.
-* #Empleo-> Si es una propuesta o búsqueda de empleo.
-* #OffTopic-> Chistes, o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
+* #Aporte :: Vídeos, noticias, artículos, cursos, entre otros.
+* #Empleo :: Si es una propuesta o búsqueda de empleo.
+* #OffTopic :: Chistes o temas no relacionados con otras etiquetas, pero igual que respete el tema del grupo.
+* #Encuesta :: Preguntas relevantes que sean de utilidad a la comunidad y sus miembros.
 * #Pregunta #(Tecnología) por ejemplo: #Pregunta #Ruby - #Pregunta #SQL - #Pregunta #Wordpress.
 
 ### Procedimiento
 Se procederá a eliminar dicha publicación. De continuar con la actitud, se procederá directamente a bloquear de la comunidad. 
 
-## Venta de Servicios (Curso, Hosting, Desarrollo, entre otros).
-Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estas contengan algún beneficio para la comunidad de Desarrolladores Venezuela como:
+## Venta de servicios (Curso, hosting, desarrollo, entre otros).
+Solo se permitirán publicaciones de venta de servicios relacionados al grupo, cuando estas contengan algún beneficio para la comunidad de Programadores Venezuela como:
 * Descuentos únicos para miembros del grupo.
 * Muestra gratuita del servicio o producto.
 * Otros beneficios.
@@ -38,6 +39,7 @@ Nota: Si no estás seguro contacta con alguno de los administradores o moderador
 ## Publicidad
 * Quedan prohibidas las publicaciones que hagan referencia a una Fanpage o Comunidad con el fin de conseguir más Likes y no realizar ningún aporte.
 * Quedan prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios.
+* Queda prohibido la practica troll en la comunidad, es decir, el uso de comentarios maliciosos o irrelevantes al propósito del contenido de otros usuarios, buscando sabotear, generar descontento y desconfianza entre los miembros de la comunidad.
 
 ### Procedimiento
 * Comentario, se procederá a eliminar dicho comentario. De persistir después de la advertencia, se procederá a bloquear de la comunidad.
@@ -45,14 +47,14 @@ Nota: Si no estás seguro contacta con alguno de los administradores o moderador
 
 ## Pautas para publicar ofertas laborales
 Se eliminarán las ofertas laborales que no sigan las pautas de la comunidad:
-* Nombre de la Empresa: (Si es personal indica tu nombre)
-* Perfil Requerido:
+* Nombre de la empresa: (Si es personal indica tu nombre)
+* Perfil requerido:
 * Ubicación:
 * Horarios:
-* Moneda: (USD o BsF)
-* Remuneración Aproximada: ( Min - Max - Aproximado )
-* Tipo de Contrato: (Fulltime - Partime - Freelance)
-* Correo Electrónico: (Para Adjuntar CV)
+* Moneda: ( USD - BsF - Bitcoin / etc )
+* Remuneración aproximada: ( Min - Max - Aproximado )
+* Tipo de contrato: ( Fulltime - Partime - Freelance )
+* Correo electrónico: ( Para enviar CV o alguna información requerida )
 
 ### Observaciones
 * Si la remuneración aproximada es acorde a la experiencia, especificar un monto por cada rango de experiencia.
