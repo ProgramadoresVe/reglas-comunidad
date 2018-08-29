@@ -3,7 +3,8 @@ Reglas de la Comunidad de Programadores de Venezuela.
 
 ## Normas de convivencia
 * Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la comunidad.
-* Antes de publicar busca tus dudas en google o en las FAQ (https://github.com/ProgramadoresVe/FAQ), para evitar posts duplicados
+* Antes de publicar busca tus dudas en Google o en las FAQ (https://github.com/ProgramadoresVe/FAQ), para evitar posts duplicados.
+* Queda prohibido la practica troll en la comunidad, es decir, el uso de comentarios maliciosos o irrelevantes al propósito del contenido de otros usuarios, buscando sabotear, generar descontento y desconfianza entre los miembros de la comunidad.
 
 ### Procedimiento
 * Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
@@ -39,7 +40,6 @@ Nota: Si no estás seguro contacta con alguno de los administradores o moderador
 ## Publicidad
 * Quedan prohibidas las publicaciones que hagan referencia a una Fanpage o Comunidad con el fin de conseguir más Likes y no realizar ningún aporte.
 * Quedan prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios.
-* Queda prohibido la practica troll en la comunidad, es decir, el uso de comentarios maliciosos o irrelevantes al propósito del contenido de otros usuarios, buscando sabotear, generar descontento y desconfianza entre los miembros de la comunidad.
 
 ### Procedimiento
 * Comentario, se procederá a eliminar dicho comentario. De persistir después de la advertencia, se procederá a bloquear de la comunidad.
