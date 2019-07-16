@@ -47,8 +47,6 @@ Se eliminarán las ofertas laborales que no sigan las siguientes pautas de la Co
 * Tipo de contrato: (Fulltime - Partime - Freelance)
 * Correo electrónico: (Para enviar CV o alguna información requerida)
 
-Para realizar una mejor publicación de tu oferta laboral, Programadores de Venezuela recomienda utilizar `Post a Job` (https://app.jet-sketch.com/post-a-job/), esta herramienta se permitirá de forma rápida generar la estructura correcta según las normas de la Comunidad.
-
 ### Observaciones
 * Si la remuneración aproximada es acorde a la experiencia, especificar un monto por cada rango de experiencia.
 * Si la remuneración es en base a objetivos alcanzados. Colocar `Saldo variable según objetivo alcanzado` y hacer referencia con un ejemplo, del tipo de remuneración que se obtendría al alcanzar un objetivo.
