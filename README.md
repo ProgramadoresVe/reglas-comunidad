@@ -3,7 +3,7 @@ Reglas de la Comunidad de Programadores de Venezuela.
 
 ## Normas de convivencia
 * Queda prohibido el uso de adjetivos descalificadores (por razones políticas, religiosas, raciales o de cualquier otra índole) entre los usuarios como hacia los administradores o moderadores de la Comunidad.
-* Antes de publicar, busca tus dudas en Google o en las `FAQ` (https://github.com/ProgramadoresVe/FAQ), para evitar posts duplicados.
+* Antes de publicar, busca tus dudas en Google para evitar publicaciones duplicadas.
 * Queda prohibido la práctica troll en la Comunidad, es decir, el uso de comentarios maliciosos o irrelevantes al propósito del contenido de otros usuarios, buscando sabotear, generar descontento y desconfianza entre los miembros de la Comunidad.
 
 ## Publicaciones
@@ -11,10 +11,10 @@ Queda prohibido:
 * Realizar publicaciones con fines de compra o venta de productos o divisas.
 * Realizar publicaciones que no sean parte de la temática de la Comunidad.
 * Hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
-* Publicar material didáctico digital (cursos, libros, videotutoriales, entre otros) que contengan acortadores en el enlace (Adfly, Shorte, entre otros) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube. 
+* Publicar material didáctico digital (cursos, libros, videotutoriales, entre otros) que contengan acortadores en el enlace (Adfly, Shorte, entre otros) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
 
 ## Organización
-Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la Comunidad utilizar un hashtag (#) con el tema que van a publicar:
+Con el fin de organizar mejor el contenido de las publicaciones y facilitar la búsqueda de información, agradecemos a los miembros de la Comunidad utilizar un hashtag (#) con el tema que van a publicar, por ejemplo:
 
 * #Aporte :: Vídeos, noticias, artículos, cursos, entre otros.
 * #Empleo :: Si es una propuesta o búsqueda de empleo.
@@ -29,7 +29,7 @@ Solo se permitirán publicaciones de venta de servicios relacionados al grupo, c
 * Muestra gratuita del servicio o producto.
 * Entre otros beneficios.
 
-Nota: Si no estás seguro contacta con alguno de los administradores o moderadores del grupo antes de publicar
+Nota: Si no estás seguro contacta con alguno de los administradores o moderadores del grupo antes de publicar.
 
 ## Publicidad
 Quedan prohibidas:
@@ -38,10 +38,11 @@ Quedan prohibidas:
 
 ## Pautas para publicar ofertas laborales
 Se eliminarán las ofertas laborales que no sigan las siguientes pautas de la Comunidad:
+
 * Nombre de la empresa: (Si es personal indica tu nombre)
 * Perfil requerido: (Información del perfil)
-* Ubicación: (Remoto / Presencial / Dirección)
-* Horarios:
+* Ubicación: (Remoto - Presencial - Mixto)
+* Horarios: (Fulltime - Partime - Freelance)
 * Moneda: (USD - BsF - Bitcoin)
 * Remuneración aproximada: (Min - Max - Aproximado)
 * Tipo de contrato: (Fulltime - Partime - Freelance)
@@ -52,7 +53,7 @@ Se eliminarán las ofertas laborales que no sigan las siguientes pautas de la Co
 * Si la remuneración es en base a objetivos alcanzados. Colocar `Saldo variable según objetivo alcanzado` y hacer referencia con un ejemplo, del tipo de remuneración que se obtendría al alcanzar un objetivo.
 * Si las postulaciones se deben hacer por una plataforma web, se puede omitir el campo de `Correo Electrónico`, especificando en su lugar un enlace con la oferta laboral.
 
-## Otras consideraciones
+## Consideraciones
 * Los administradores de este grupo no nos hacemos responsables por los acuerdos de negocios que los miembros de este grupo hagan con terceros.
 * Si alguna publicación te parece sospechosa o crees que incumple con las normas repórtala, recuerda que esta Comunidad es tuya.
 * Si deseas publicar algo pero crees que incumple con las normas contacta con alguno de los Administradores o Moderadores para discutirlo y evitar la expulsión.
@@ -60,5 +61,5 @@ Se eliminarán las ofertas laborales que no sigan las siguientes pautas de la Co
 ## Penalidades
 En caso de incurrir con las normas de la Comunidad, según sea el caso se procederá de la siguiente manera:
 * Se le notificará al miembro de la comunidad acerca de su falta.
-* Se eliminará el comenario o publicación referente a la falta.
+* Se eliminará el comentario o publicación referente a la falta.
 * De persistir el usuario después de los pasos anteriores, se procederá a bloquearlo de la Comunidad.
